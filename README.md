@@ -41,6 +41,3 @@ Full Stack developer and Python Developer
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vr.varad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-<div>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-</div>
