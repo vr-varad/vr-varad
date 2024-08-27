@@ -1,6 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Varad Gupta
 ===================================================================================================================================
-PortFolio Websitr: https://varad-gupta.vercel.app/ 
+<img src="https://raw.githubusercontent.com/vr-varad/vr-varad/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vr-varad/count.svg" />
+</p>
+
+PortFolio Website: https://varad-gupta.vercel.app/ 
 
 Full Stack developer and Python Developer
 -----------------------------------------
