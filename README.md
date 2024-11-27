@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://profile-counter.glitch.me/vr-varad/count.svg" />
 </p>
 
-PortFolio Website: https://varad-gupta.vercel.app/ 
+PortFolio Website: [Varad Gupta](https://vr-varad.notion.site/Varad-Gupta-Full-Stack-Developer-0c0bc1d7d34344d297d2144c350582a7)
 
 Full Stack developer and Python Developer
 -----------------------------------------
