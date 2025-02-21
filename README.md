@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vr-varad&color=blue)
 
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="35"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey there, I'm Varad!  
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="35"/>
 </h1>
 
 🚀 Full-Stack Engineer | Backend Enthusiast | Passionate about scalable systems & APIs  
