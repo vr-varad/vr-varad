@@ -6,7 +6,7 @@
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30"/>
 </h1>
 
-🚀 Backend Developer | Passionate about scalable systems & APIs  
+🚀 Full-Stack Engineer | Backend Enthusiast | Passionate about scalable systems & APIs  
 💡 Exploring **Node.js, TypeScript, System Design**  
 📌 Portfolio: [Varad Gupta](https://vr-varad.notion.site/Varad-Gupta-Full-Stack-Developer-0c0bc1d7d34344d297d2144c350582a7)  
 
@@ -91,11 +91,22 @@ C                        1 repo              ░░░░░░░░░░░�
 
 [![GitHub User's stars](https://img.shields.io/github/stars/vr-varad?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/vr-varad?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-<a href="http://www.github.com/vr-varad"><img src="https://github-readme-stats.vercel.app/api?username=vr-varad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vr-varad's GitHub stats" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/vr-varad">
+        <img src="https://github-readme-stats.vercel.app/api?username=vr-varad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vr-varad's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/vr-varad">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vr-varad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/vr-varad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vr-varad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</ul>
 
 ### 🌐 Connect With Me
 
