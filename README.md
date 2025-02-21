@@ -50,8 +50,15 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 
+### 📈 GitHub Stats
 
+[![GitHub User's stars](https://img.shields.io/github/stars/vr-varad?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/vr-varad?tab=repositories&q=&type=public&language=&sort=stargazers)
 
+<a href="http://www.github.com/vr-varad"><img src="https://github-readme-stats.vercel.app/api?username=vr-varad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vr-varad's GitHub stats" /></a>
+
+<a href="http://www.github.com/vr-varad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vr-varad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+</ul>
 
 ### 🌐 Connect With Me
 
@@ -61,12 +68,3 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/vr-varad)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vr_varad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/varadgupta21)
-
-### 📈 GitHub Stats
-
-
-<a href="http://www.github.com/vr-varad"><img src="https://github-readme-stats.vercel.app/api?username=vr-varad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vr-varad's GitHub stats" /></a>
-
-<a href="http://www.github.com/vr-varad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vr-varad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-</ul>
