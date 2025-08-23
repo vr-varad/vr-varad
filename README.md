@@ -8,7 +8,7 @@
 
 🚀 Full-Stack Engineer | Backend Enthusiast | Passionate about scalable systems & APIs  
 💡 Exploring **Node.js, TypeScript, System Design**  
-📌 Portfolio: [Varad Gupta](https://vr-varad.notion.site/Varad-Gupta-Full-Stack-Developer-0c0bc1d7d34344d297d2144c350582a7)  
+📌 Portfolio: [Varad Gupta](https://vr-varad.me/)  
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
